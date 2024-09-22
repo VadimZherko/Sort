@@ -1,0 +1,3 @@
+/home/vadim/repository/Sort/build/CMakeFiles/Sort.dir
+/home/vadim/repository/Sort/build/CMakeFiles/edit_cache.dir
+/home/vadim/repository/Sort/build/CMakeFiles/rebuild_cache.dir
